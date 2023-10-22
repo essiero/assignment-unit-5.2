@@ -1,15 +1,15 @@
-header {
+.header {
     background-color: darkgreen;
     color:oldlace;
     text-align: center;
 }
 
-main {
+.main {
     background-color: lightgray;
     padding: 1em;
 }
 
-html{
+.page{
     background-image: url(record.png);
     background-repeat: repeat-x repeat-y;
 }
