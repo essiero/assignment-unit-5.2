@@ -6,11 +6,16 @@ header {
 
 main {
     background-color: lightgray;
+    padding: 1em;
 }
 
 html{
     background-image: url(record.png);
     background-repeat: repeat-x repeat-y;
+}
+
+body{
+    margin: 0;
 }
 
 
