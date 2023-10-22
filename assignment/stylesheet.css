@@ -1,7 +1,16 @@
-header{
+header {
     background-color: darkgreen;
     color:oldlace;
     text-align: center;
+}
+
+main {
+    background-color: lightgray;
+}
+
+html{
+    background-image: url(record.png);
+    background-repeat: repeat-x repeat-y;
 }
 
 
